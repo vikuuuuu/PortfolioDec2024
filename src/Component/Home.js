@@ -422,7 +422,7 @@ function Home() {
               </div>
               <div className="skill-bar">
                 <span className="skill-per cloudComputing">
-                  <span className="tooltip">60%</span>
+                  <span className="tooltip">40%</span>
                 </span>
               </div>
             </div>
