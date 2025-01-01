@@ -69,8 +69,7 @@ const Carousel = () => {
           </p>
           <p className="project-details">
             I am Developing an online Examination Dashboard using React js,
-            aiming for an intuitive user experience and real-time updates. The
-            Project is still in progress and not yet completed.
+            aiming for an intuitive user experience and real-time updates.
           </p>
         </div>
         <div className="project-slide">
