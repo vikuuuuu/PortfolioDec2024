@@ -8,7 +8,7 @@ import OnlineExam from "../Images/onlineExam.png";
 import MyPort from "../Images/portfolio image.png";
 import Calculator from "../Images/Calculator image.png";
 import CloudComputing from "../Images/cloud.png";
-import emailjs from "../Images/emailjs.png";
+import emailjsimg from "../Images/emailjs.png";
 import Cyber from "../Images/cyber.png";
 import Cloud from "../Images/cloud.png";
 import Computer from "../Images/computer-networks.png";
@@ -426,10 +426,9 @@ function Home() {
                 </span>
               </div>
             </div>
-          </div>
                   <div className="SkillContainerbtn" data-aos="zoom-in-up">
               <div className="SkillContainerbtn-title">
-                <img src={emailjs} alt="img" />
+                <img src={emailjsimg} alt="img" />
                 <h4>Email js</h4>
               </div>
               <div className="skill-bar">
@@ -439,6 +438,7 @@ function Home() {
               </div>
             </div>
           </div>
+          
         </div>
       </section>
 
