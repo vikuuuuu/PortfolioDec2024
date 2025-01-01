@@ -279,6 +279,10 @@
   width: 40%;
   animation-delay: 1s;
 }
+.skill-per.emailjs {
+  width: 40%;
+  animation-delay: 1s;
+}
 .tooltip {
   position: absolute;
   right: 0px;
