@@ -97,10 +97,14 @@
   transition: all 0.5s;
 }
 
-.twitter,
 .linkedin,
 .whatsapp {
   font-size: 1.7rem;
+  cursor: pointer;
+  color: black;
+}
+.twitter {
+  font-size: 1.5rem;
   cursor: pointer;
   color: black;
 }
